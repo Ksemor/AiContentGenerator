@@ -1,0 +1,17 @@
+## .NET / C#
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
+*.dll
+*.exe
+*.pdb
+
+## Локальные данные (API-ключи и история)
+settings.json
+history.json
+**/bin/**/settings.json
+**/bin/**/history.json

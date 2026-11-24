@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AiContentGenerator.Core/AiContentGenerator.Core.csproj" />
+  <Project Path="AiContentGenerator.WinForms/AiContentGenerator.WinForms.csproj" />
+</Solution>
